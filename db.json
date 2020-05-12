@@ -1,0 +1,49 @@
+{
+  "productos": [
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": "500"
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": "505",
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de manzana",
+      "precio": "3",
+      "id": 5
+    },
+    {
+      "nombre": "tequila",
+      "precio": "3",
+      "id": 6
+    },
+    {
+      "nombre": "Manzana",
+      "precio": "3",
+      "id": 7
+    },
+    {
+      "nombre": "Manzana",
+      "precio": "3",
+      "id": 8
+    },
+    {
+      "nombre": "Manzana",
+      "precio": "3",
+      "id": 9
+    },
+    {
+      "nombre": "Jugo de manzana",
+      "precio": "40",
+      "id": 10
+    },
+    {
+      "nombre": "1",
+      "precio": "1",
+      "id": 11
+    }
+  ]
+}
